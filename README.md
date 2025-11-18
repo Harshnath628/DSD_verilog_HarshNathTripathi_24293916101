@@ -1,0 +1,2 @@
+# DSD_verilog_HarshNathTripathi_24293916101
+DSD Verilog Practical repo
